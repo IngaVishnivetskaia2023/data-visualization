@@ -7,3 +7,4 @@
 ## D3 in Action (July 2024)
 - [Part 1 D3.js fundamentals](2.md)
 - [Manipulating the DOM](3.md)
+- [Working with data](4.md)
