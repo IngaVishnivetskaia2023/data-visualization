@@ -8,3 +8,4 @@
 - [Part 1 D3.js fundamentals](2.md)
 - [Manipulating the DOM](3.md)
 - [Working with data](4.md)
+- [Drawing lines, curves, and arcs](5.md)
