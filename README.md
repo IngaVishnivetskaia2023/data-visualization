@@ -10,3 +10,4 @@
 - [Working with data](4.md)
 - [Drawing lines, curves, and arcs](5.md)
 - [Pie and stack layouts](6.md)
+- [Visualizing distributions](7.md)
