@@ -12,3 +12,4 @@
 - [Pie and stack layouts](6.md)
 - [Visualizing distributions](7.md)
 - [Interactive visualizations](8.md)
+- [Integrating D3 in a frontend framework](9.md)
