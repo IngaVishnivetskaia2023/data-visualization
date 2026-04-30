@@ -13,3 +13,7 @@
 - [Visualizing distributions](7.md)
 - [Interactive visualizations](8.md)
 - [Integrating D3 in a frontend framework](9.md)
+
+## Data Visualization Fundamentals
+
+- [Foundation](10.md)
