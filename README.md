@@ -16,4 +16,5 @@
 
 ## Data Visualization Fundamentals
 
-- [Foundation](10.md)
+- [Foundation: Data Ink Ratio](10.md)
+- [Foundation: Encoding and Decoding](11.md)
