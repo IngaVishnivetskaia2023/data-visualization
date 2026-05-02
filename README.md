@@ -23,3 +23,4 @@
 - [Correlation and Causation](14.md)
 - [Misleading Data and Visual Distortion: Aspect Ratio in Line Charts](15.md)
 - [Misleading Data and Visual Distortion: Cutting the Y Axis](16.md)
+- [Misleading Data and Visual Distortion: Error Bars](17.md)
