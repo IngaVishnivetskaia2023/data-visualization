@@ -20,3 +20,4 @@
 - [Foundation: Encoding and Decoding](11.md)
 - [Foundation: Accuracy Hierarchy](12.md)
 - [Chart Design That Communicates](13.md)
+- [Correlation and Causation](14.md)
