@@ -21,3 +21,4 @@
 - [Foundation: Accuracy Hierarchy](12.md)
 - [Chart Design That Communicates](13.md)
 - [Correlation and Causation](14.md)
+- [Misleading Data and Visual Distortion: Aspect Ratio in Line Charts](15.md)
