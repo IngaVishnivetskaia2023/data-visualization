@@ -18,3 +18,4 @@
 
 - [Foundation: Data Ink Ratio](10.md)
 - [Foundation: Encoding and Decoding](11.md)
+- [Foundation: Accuracy Hierarchy](12.md)
