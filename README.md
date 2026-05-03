@@ -29,3 +29,4 @@
 - [Comparison: Bar Chart](20.md)
 - [Relationship: Scatter Plot](21.md)
 - [Relationship: Bubble Chart](22.md)
+- [Distribution: Histogram](23.md)
