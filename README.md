@@ -26,3 +26,4 @@
 - [Misleading Data and Visual Distortion: Error Bars](17.md)
 - [Types of Charts: overview](18.md)
 - [Data over Time: Area Chart](19.md)
+- [Comparison: Bar Chart](20.md)
