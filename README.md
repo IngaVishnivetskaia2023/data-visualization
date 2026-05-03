@@ -27,3 +27,4 @@
 - [Types of Charts: overview](18.md)
 - [Data over Time: Area Chart](19.md)
 - [Comparison: Bar Chart](20.md)
+- [Relationship: Scatter Plot](21.md)
