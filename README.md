@@ -28,3 +28,4 @@
 - [Data over Time: Area Chart](19.md)
 - [Comparison: Bar Chart](20.md)
 - [Relationship: Scatter Plot](21.md)
+- [Relationship: Bubble Chart](22.md)
