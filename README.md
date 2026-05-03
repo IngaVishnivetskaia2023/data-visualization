@@ -31,3 +31,4 @@
 - [Relationship: Bubble Chart](22.md)
 - [Distribution: Histogram](23.md)
 - [Distribution: Density Plot](24.md)
+- [Part to Whole: Pie Chart](25.md)
