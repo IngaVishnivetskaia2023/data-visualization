@@ -33,3 +33,4 @@
 - [Distribution: Density Plot](24.md)
 - [Part to Whole: Pie Chart](25.md)
 - [Financial: Waterfalls](26.md)
+- [Combo Chart](27.md)
